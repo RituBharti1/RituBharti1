@@ -1,15 +1,10 @@
 
 
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
 <!-- 💖 Typing animation introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=FF69B4&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Khushi+Chetule!;A+Passionate+Learner+and+Developer;Exploring+the+World+of+Tech!" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2300&pause=100&color=FF69B4&center=true&multiline=true&repeat=false&width=700&height=120&lines=Hi%2C+I'm+Ritu+Bharti!;A+Passionate+Learner+and+Developer;Exploring+the+World+of+Tech!" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -71,6 +66,14 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RituBharti1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> Profile Visitors
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Anuragsrivastava508&label=HITS&labelColor=%23000000&countColor=%2300b7ff)
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

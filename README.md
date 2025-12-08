@@ -93,4 +93,4 @@
 
 
 <!-- 💖 Contact -->
-### You can reach me at: *<khushichetule2@gmail.com>*
+### You can reach me at: *<bhartiriya43@gmail.com>*

@@ -71,7 +71,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> Profile Visitors
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Anuragsrivastava508&label=HITS&labelColor=%23000000&countColor=%2300b7ff)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=RituBharti1&label=HITS&labelColor=%23000000&countColor=%2300b7ff)
 
 
 
